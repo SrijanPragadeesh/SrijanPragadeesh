@@ -4,7 +4,6 @@
 * 🌱 Currently learning **Artificial Intelligence, Data Analytics, and improving my programming skills**
 * 🔭 Working on personal projects and exploring new technologies
 * ⚡ Fun fact: I enjoy solving coding challenges and learning how data can drive decisions
----
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,4 +20,3 @@
 * Python for Data Analytics
 * Data Visualization
 * Advanced Problem Solving
-* Frontend Development with HTML & CSS
