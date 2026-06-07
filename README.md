@@ -1,4 +1,4 @@
-#Hi there,I'm Srijan Pragadeesh.
+# Hi there👋,I'm Srijan Pragadeesh.
 
 Student • AI Enthusiast • Programmer
 
